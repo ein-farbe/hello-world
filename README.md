@@ -2,12 +2,12 @@
 
 This is the tutorial repository.
 
-_____
-*****
 -----
 
 # The largest heading
 ## The second largest heading
+### The 3rd largest heading
+#### The 4th largest heading
 ###### The smallest heading
 
 
@@ -23,3 +23,4 @@ git commit
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
+
