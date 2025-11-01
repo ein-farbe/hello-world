@@ -10,7 +10,7 @@
 #### The 4th largest heading
 ###### The smallest heading
 
-### code
+### git command
 Some basic Git commands are:
 ```Shell
 git status
